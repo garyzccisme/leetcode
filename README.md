@@ -10,4 +10,5 @@ _A notebook recording our efforts._ &#9733;
 |46|[Permutations](https://github.com/garyzccisme/leetcode/tree/master/solutions/046.Permutations) | Medium | BFS, DFS, backtracking |
 |49|[Group Anagrams](https://github.com/garyzccisme/leetcode/tree/master/solutions/049.Group_Anagrams)| Medium | Hash Table, String |
 |215|[Kth Largest Element in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/215.Kth_Largest_Element_in_an_Array) | Medium | Sort, Divide and Conquer, Heap |
+|338|[Counting Bits](https://github.com/garyzccisme/leetcode/tree/master/solutions/338.Couting_Bits)| Medium | DP, Bit |
 |886|[Possible Bipartition](https://github.com/garyzccisme/leetcode/tree/master/solutions/886.Possible_Bipartition)| Medium | DFS, Graph |
