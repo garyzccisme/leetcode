@@ -3,5 +3,5 @@
 ### Problem Link 
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
-### Analysis
+### Note
 Use recursion (DFS & BFS) to solve. 

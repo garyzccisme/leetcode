@@ -3,5 +3,5 @@
 ### Problem Link 
 https://leetcode.com/problems/group-anagrams/
 
-### Analysis
+### Note
 Both count letters number or sort can be used to detect Anagrams.
