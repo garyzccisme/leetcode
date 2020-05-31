@@ -7,5 +7,5 @@ https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-
 Graph Problem. NOTE in the question `there is only one way to travel between two different cities (this network form
  a tree)`, so there isn't cycle in the graph.
  
- So we can think without direction first, use BFS to travel all the cities. If the direction is inverse, meaning need
-  to change it, thus the `count += 1`. 
+ So we can think without direction first, use BFS or DFS to travel all the cities. If the direction is inverse
+ , meaning need to change it, thus the `count += 1`. 
