@@ -3,6 +3,7 @@ class Solution:
     def minReorder(self, n: int, connections: List[List[int]]) -> int:
 
         road = collections.defaultdict(set)
+        # 1, -1 means the road direction
         for a, b in connections:
             road[a].add((b, 1))
             road[b].add((a, -1))
@@ -26,6 +27,7 @@ class Solution:
     def minReorder(self, n: int, connections: List[List[int]]) -> int:
 
         self.road = collections.defaultdict(set)
+        # 1, -1 means the road direction
         for a, b in connections:
             self.road[a].add((b, 1))
             self.road[b].add((a, -1))
