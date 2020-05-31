@@ -9,6 +9,7 @@ _A notebook recording our efforts._ &#9733;
 |17|[Letter Combinations of a Phone Number](https://github.com/garyzccisme/leetcode/tree/master/solutions/0017.Letter_Combinations_of_a_Phone_Number)| Medium | String, Backtracking |
 |46|[Permutations](https://github.com/garyzccisme/leetcode/tree/master/solutions/0046.Permutations) | Medium | BFS, DFS, Backtracking |
 |49|[Group Anagrams](https://github.com/garyzccisme/leetcode/tree/master/solutions/0049.Group_Anagrams)| Medium | Hash Table, String |
+|72|[Edit Distance](https://github.com/garyzccisme/leetcode/tree/master/solutions/0072.Edit_Distance) | Hard | String, DP |
 |207|[Course Schedule](https://github.com/garyzccisme/leetcode/tree/master/solutions/0207.Course_Schedule)| Medium | Graph, DFS, BFS |
 |215|[Kth Largest Element in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0215.Kth_Largest_Element_in_an_Array) | Medium | Sort, Divide and Conquer, Heap | 973 |
 |338|[Counting Bits](https://github.com/garyzccisme/leetcode/tree/master/solutions/0338.Couting_Bits)| Medium | DP, Bit |
