@@ -4,7 +4,7 @@
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 ### Note
-Use Sliding Window to solve.
+Use Sliding Window to solve. Using Hash Table could be faster.
 
 Example:
 
