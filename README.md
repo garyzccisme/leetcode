@@ -6,6 +6,8 @@ _A notebook recording our efforts._ &#9733;
 
 |  #  |   Title  | Difficulty | Tag | Similar
 |-----|----------|------------|-----|--------
+|1|[Two Sum](https://github.com/garyzccisme/leetcode/tree/master/solutions/0001.Two_Sum) | Easy | Array, Hash Table |
+|2|[Add Two Numbers](https://github.com/garyzccisme/leetcode/tree/master/solutions/0002.Add_Two_Numbers) | Medium | Linked List |
 |17|[Letter Combinations of a Phone Number](https://github.com/garyzccisme/leetcode/tree/master/solutions/0017.Letter_Combinations_of_a_Phone_Number)| Medium | String, Backtracking |
 |46|[Permutations](https://github.com/garyzccisme/leetcode/tree/master/solutions/0046.Permutations) | Medium | BFS, DFS, Backtracking |
 |49|[Group Anagrams](https://github.com/garyzccisme/leetcode/tree/master/solutions/0049.Group_Anagrams)| Medium | Hash Table, String |
