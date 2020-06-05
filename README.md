@@ -6,6 +6,7 @@ _A notebook recording our efforts._ &#9733;
 
 |  #  |   Title  | Difficulty | Tag | Similar
 |-----|----------|------------|-----|--------
+
 |1|[Two Sum](https://github.com/garyzccisme/leetcode/tree/master/solutions/0001.Two_Sum) | Easy | Array, Hash Table | 15 |
 |2|[Add Two Numbers](https://github.com/garyzccisme/leetcode/tree/master/solutions/0002.Add_Two_Numbers) | Medium | Linked List |
 |3|[Longest Substring Without Repeating Characters](https://github.com/garyzccisme/leetcode/tree/master/solutions/0003.Longest_Substring_Without_Repeating_Characters) | Medium | Hash Table, Two Pointers, String, Sliding Window
