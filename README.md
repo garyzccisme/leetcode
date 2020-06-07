@@ -22,6 +22,7 @@ _A notebook recording our efforts._ &#9733;
 |215|[Kth Largest Element in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0215.Kth_Largest_Element_in_an_Array) | Medium | Sort, Divide and Conquer, Heap | 973 |
 |338|[Counting Bits](https://github.com/garyzccisme/leetcode/tree/master/solutions/0338.Couting_Bits)| Medium | DP, Bit |
 |406|[Queue Reconstruction by Height](https://github.com/garyzccisme/leetcode/tree/master/solutions/0406.Queue_Reconstruction_by_Height) | Medium | Greedy
+|518|[Coin Change 2](https://github.com/garyzccisme/leetcode/tree/master/solutions/0518.Coin_Change_2) | Medium | DP | 
 |528|[Random Pick with Weight](https://github.com/garyzccisme/leetcode/tree/master/solutions/0528.Random_Pick_with_Weight) | Medium | Binary Search, Random
 |886|[Possible Bipartition](https://github.com/garyzccisme/leetcode/tree/master/solutions/0886.Possible_Bipartition)| Medium | DFS, Graph |
 |973|[K Closest Points to Origin](https://github.com/garyzccisme/leetcode/tree/master/solutions/0973.K_Closest_Points_to_Origin) | Medium | Sort, Divide and Conquer, Heap | 215 |
