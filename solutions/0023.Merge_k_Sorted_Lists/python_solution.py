@@ -4,6 +4,7 @@ class ListNode:
         self.val = val
         self.next = next
 
+# Divide and Conquer
 class Solution:
     def mergeKLists(self, lists: List[ListNode]) -> ListNode:
         if len(lists) == 0:
@@ -29,4 +30,19 @@ class Solution:
                 l1 = l1.next
             runner = runner.next
         runner.next = l1 or l2
+        return ans.next
+
+# Heap
+class Solution:
+    def mergeKLists(self, lists: List[ListNode]) -> ListNode:
+        ans_list = []
+        ans = ListNode()
+        runner = ans
+        for l in lists:
+            while l:
+                heapq.heappush(ans_list, l.val)
+                l = l.next
+        while ans_list:
+            runner.next = ListNode(heapq.heappop(ans_list))
+            runner = runner.next
         return ans.next
