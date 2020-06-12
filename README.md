@@ -16,6 +16,7 @@ _A notebook recording our efforts._ &#9733;
 |21|[Merge Two Sorted Lists](https://github.com/garyzccisme/leetcode/tree/master/solutions/0021.Merge_Two_Sorted_Lists) | Easy | Linked List | 23
 |22|[Generate Parentheses](https://github.com/garyzccisme/leetcode/tree/master/solutions/0022.Generate_Parentheses) | Medium | String, Backtracking, BFS, DFS | 20, 1249 |
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List, Divide and Conquer, Heap | 21
+|33|[Search in Rotated Sorted Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0033.Search_in_Rotated_Sorted_Array) | Medium | Array, Binary Search
 |46|[Permutations](https://github.com/garyzccisme/leetcode/tree/master/solutions/0046.Permutations) | Medium | BFS, DFS, Backtracking |
 |49|[Group Anagrams](https://github.com/garyzccisme/leetcode/tree/master/solutions/0049.Group_Anagrams)| Medium | Hash Table, String |
 |72|[Edit Distance](https://github.com/garyzccisme/leetcode/tree/master/solutions/0072.Edit_Distance) | Hard | String, DP |
