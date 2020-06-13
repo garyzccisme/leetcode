@@ -19,6 +19,7 @@ _A notebook recording our efforts._ &#9733;
 |33|[Search in Rotated Sorted Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0033.Search_in_Rotated_Sorted_Array) | Medium | Array, Binary Search
 |46|[Permutations](https://github.com/garyzccisme/leetcode/tree/master/solutions/0046.Permutations) | Medium | BFS, DFS, Backtracking |
 |49|[Group Anagrams](https://github.com/garyzccisme/leetcode/tree/master/solutions/0049.Group_Anagrams)| Medium | Hash Table, String |
+|53|[Maximum Subarray](https://github.com/garyzccisme/leetcode/tree/master/solutions/0053.Maximum_Subarray) | Medium | Array, Divide and Conquer, DP
 |72|[Edit Distance](https://github.com/garyzccisme/leetcode/tree/master/solutions/0072.Edit_Distance) | Hard | String, DP |
 |207|[Course Schedule](https://github.com/garyzccisme/leetcode/tree/master/solutions/0207.Course_Schedule)| Medium | Graph, DFS, BFS |
 |215|[Kth Largest Element in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0215.Kth_Largest_Element_in_an_Array) | Medium | Sort, Divide and Conquer, Heap | 973 |
