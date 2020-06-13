@@ -24,6 +24,7 @@ _A notebook recording our efforts._ &#9733;
 |207|[Course Schedule](https://github.com/garyzccisme/leetcode/tree/master/solutions/0207.Course_Schedule)| Medium | Graph, DFS, BFS |
 |215|[Kth Largest Element in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0215.Kth_Largest_Element_in_an_Array) | Medium | Sort, Divide and Conquer, Heap | 973 |
 |338|[Counting Bits](https://github.com/garyzccisme/leetcode/tree/master/solutions/0338.Couting_Bits)| Medium | DP, Bit |
+|368|[Largest Divisible Subset](https://github.com/garyzccisme/leetcode/tree/master/solutions/0368.Largest_Divisible_Subset) | Medium | DP 
 |406|[Queue Reconstruction by Height](https://github.com/garyzccisme/leetcode/tree/master/solutions/0406.Queue_Reconstruction_by_Height) | Medium | Greedy
 |518|[Coin Change 2](https://github.com/garyzccisme/leetcode/tree/master/solutions/0518.Coin_Change_2) | Medium | DP | 
 |528|[Random Pick with Weight](https://github.com/garyzccisme/leetcode/tree/master/solutions/0528.Random_Pick_with_Weight) | Medium | Binary Search, Random
