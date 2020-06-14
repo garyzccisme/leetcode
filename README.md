@@ -28,6 +28,7 @@ _A notebook recording our efforts._ &#9733;
 |406|[Queue Reconstruction by Height](https://github.com/garyzccisme/leetcode/tree/master/solutions/0406.Queue_Reconstruction_by_Height) | Medium | Greedy
 |518|[Coin Change 2](https://github.com/garyzccisme/leetcode/tree/master/solutions/0518.Coin_Change_2) | Medium | DP | 
 |528|[Random Pick with Weight](https://github.com/garyzccisme/leetcode/tree/master/solutions/0528.Random_Pick_with_Weight) | Medium | Binary Search, Random
+|787|[Cheapest Flights Within K Stops](https://github.com/garyzccisme/leetcode/tree/master/solutions/0787.Cheapest_Flights_Within_K_Stops) | Medium | BFS, Heap
 |886|[Possible Bipartition](https://github.com/garyzccisme/leetcode/tree/master/solutions/0886.Possible_Bipartition)| Medium | DFS, Graph |
 |973|[K Closest Points to Origin](https://github.com/garyzccisme/leetcode/tree/master/solutions/0973.K_Closest_Points_to_Origin) | Medium | Sort, Divide and Conquer, Heap | 215 |
 |1249|[Minimum Remove to Make Valid Parentheses](https://github.com/garyzccisme/leetcode/tree/master/solutions/1249.Minimum_Remove_to_Make_Valid_Parentheses) | Medium | String, Stack | 20, 22
