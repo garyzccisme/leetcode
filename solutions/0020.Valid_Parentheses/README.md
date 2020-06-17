@@ -3,5 +3,5 @@
 ### Problem Link 
 https://leetcode.com/problems/valid-parentheses/
 
-### Analysis
+### Note
 When meeting problem related with **Last in First out**, then usually deal with `stack`.

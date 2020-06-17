@@ -3,7 +3,7 @@
 ### Problem Link 
 https://leetcode.com/problems/coin-change-2/
 
-### Analysis
+### Note
 This is a classical dynamic programming problem.
 
 Think of 2D DP matrix. 

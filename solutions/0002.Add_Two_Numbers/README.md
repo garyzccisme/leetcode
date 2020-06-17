@@ -3,5 +3,5 @@
 ### Problem Link 
 https://leetcode.com/problems/add-two-numbers/
 
-### Analysis
+### Note
 Use one pass solution. Be aware of the `carry` variable.

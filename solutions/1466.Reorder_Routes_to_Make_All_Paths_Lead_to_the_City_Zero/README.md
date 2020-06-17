@@ -3,7 +3,7 @@
 ### Problem Link 
 https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 
-### Analysis
+### Note
 Graph Problem. NOTE in the question `there is only one way to travel between two different cities (this network form
  a tree)`, so there isn't cycle in the graph.
  

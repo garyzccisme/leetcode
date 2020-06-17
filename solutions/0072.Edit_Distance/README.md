@@ -3,7 +3,7 @@
 ### Problem Link 
 https://leetcode.com/problems/edit-distance/
 
-### Analysis
+### Note
 This is a classic Dynamic Programming problem. The first thing is to consider about the status matrix and how the status
 got transferred.
 

@@ -3,5 +3,5 @@
 ### Problem Link 
 https://leetcode.com/problems/two-sum/
 
-### Analysis
+### Note
 Use Hashmap to store previous calculation results.

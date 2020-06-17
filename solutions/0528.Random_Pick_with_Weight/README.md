@@ -3,7 +3,7 @@
 ### Problem Link 
 https://leetcode.com/problems/random-pick-with-weight/
 
-### Analysis
+### Note
 In Statistics, if we nomalize (divided by `self.cdf[-1]`) the `self.cdf` into [0, 1], it's actually a discrete distribution `cdf ` sequence. For cdf function, given `X` you can get the Cumulative Probability (aka percentile) of `X`, which is `Prob(x <= X) `.
 
 The question is actually asking to generate random samples given by a specific statistical distribution. How?

@@ -3,7 +3,7 @@
 ### Problem Link 
 https://leetcode.com/problems/merge-k-sorted-lists/
 
-### Analysis
+### Note
 Very Similar with [https://leetcode.com/problems/merge-k-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/). 
 
 - Merge them one by one could work -> `O(k N)`.
