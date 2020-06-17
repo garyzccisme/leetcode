@@ -23,6 +23,7 @@ _A notebook recording our efforts._ &#9733;
 |70|[Climbing Stairs](https://github.com/garyzccisme/leetcode/tree/master/solutions/0070.Climbing_Stairs) | Easy | DP
 |72|[Edit Distance](https://github.com/garyzccisme/leetcode/tree/master/solutions/0072.Edit_Distance) | Hard | String, DP |
 |74|[Search a 2D Matrix](https://github.com/garyzccisme/leetcode/tree/master/solutions/0074.%20Search_a_2D_Matrix) | Medium | Array, Binary Search
+|79|[Word Search](https://github.com/garyzccisme/leetcode/tree/master/solutions/0079.Word_Search) | Medium | Array, DFS, Backtracking
 |207|[Course Schedule](https://github.com/garyzccisme/leetcode/tree/master/solutions/0207.Course_Schedule)| Medium | Graph, DFS, BFS |
 |215|[Kth Largest Element in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0215.Kth_Largest_Element_in_an_Array) | Medium | Sort, Divide and Conquer, Heap | 973 |
 |338|[Counting Bits](https://github.com/garyzccisme/leetcode/tree/master/solutions/0338.Couting_Bits)| Medium | DP, Bit |
