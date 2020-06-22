@@ -22,7 +22,7 @@ _A notebook recording our efforts._ &#9733;
 |53|[Maximum Subarray](https://github.com/garyzccisme/leetcode/tree/master/solutions/0053.Maximum_Subarray) | Medium | Array, Divide and Conquer, DP
 |70|[Climbing Stairs](https://github.com/garyzccisme/leetcode/tree/master/solutions/0070.Climbing_Stairs) | Easy | DP
 |72|[Edit Distance](https://github.com/garyzccisme/leetcode/tree/master/solutions/0072.Edit_Distance) | Hard | String, DP |
-|74|[Search a 2D Matrix](https://github.com/garyzccisme/leetcode/tree/master/solutions/0074.%20Search_a_2D_Matrix) | Medium | Array, Binary Search
+|74|[Search a 2D Matrix](https://github.com/garyzccisme/leetcode/tree/master/solutions/0074.Search_a_2D_Matrix) | Medium | Array, Binary Search
 |79|[Word Search](https://github.com/garyzccisme/leetcode/tree/master/solutions/0079.Word_Search) | Medium | Array, DFS, Backtracking
 |98|[Validate Binary Search Tree](https://github.com/garyzccisme/leetcode/tree/master/solutions/0098.Validate_Binary_Search_Tree) | Medium | Tree, DFS
 |130|[Surrounded Regions](https://github.com/garyzccisme/leetcode/tree/master/solutions/0130.Surrounded_Regions) | Medium | BFS, DFS | 
