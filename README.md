@@ -26,6 +26,7 @@ _A notebook recording our efforts._ &#9733;
 |79|[Word Search](https://github.com/garyzccisme/leetcode/tree/master/solutions/0079.Word_Search) | Medium | Array, DFS, Backtracking
 |98|[Validate Binary Search Tree](https://github.com/garyzccisme/leetcode/tree/master/solutions/0098.Validate_Binary_Search_Tree) | Medium | Tree, DFS
 |130|[Surrounded Regions](https://github.com/garyzccisme/leetcode/tree/master/solutions/0130.Surrounded_Regions) | Medium | BFS, DFS | 
+|174|[Dungeon Game](https://github.com/garyzccisme/leetcode/tree/master/solutions/0174.Dungeon_Game) | Hard | DP, DFS |
 |207|[Course Schedule](https://github.com/garyzccisme/leetcode/tree/master/solutions/0207.Course_Schedule)| Medium | Graph, DFS, BFS |
 |215|[Kth Largest Element in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0215.Kth_Largest_Element_in_an_Array) | Medium | Sort, Divide and Conquer, Heap | 973 |
 |338|[Counting Bits](https://github.com/garyzccisme/leetcode/tree/master/solutions/0338.Couting_Bits)| Medium | DP, Bit |
