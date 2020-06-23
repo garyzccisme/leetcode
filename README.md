@@ -25,6 +25,7 @@ _A notebook recording our efforts._ &#9733;
 |74|[Search a 2D Matrix](https://github.com/garyzccisme/leetcode/tree/master/solutions/0074.Search_a_2D_Matrix) | Medium | Array, Binary Search
 |79|[Word Search](https://github.com/garyzccisme/leetcode/tree/master/solutions/0079.Word_Search) | Medium | Array, DFS, Backtracking
 |98|[Validate Binary Search Tree](https://github.com/garyzccisme/leetcode/tree/master/solutions/0098.Validate_Binary_Search_Tree) | Medium | Tree, DFS
+|102|[Binary Tree Level Order Traversal](https://github.com/garyzccisme/leetcode/tree/master/solutions/0102.Binary_Tree_Level_Order_Traversal) | Medium | Tree, DFS, BFS |
 |130|[Surrounded Regions](https://github.com/garyzccisme/leetcode/tree/master/solutions/0130.Surrounded_Regions) | Medium | BFS, DFS | 
 |137|[Single Number II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0137.Single_Number_II) | Medium | Bit
 |174|[Dungeon Game](https://github.com/garyzccisme/leetcode/tree/master/solutions/0174.Dungeon_Game) | Hard | DP, DFS |
