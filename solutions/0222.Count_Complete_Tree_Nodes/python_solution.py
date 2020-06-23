@@ -24,6 +24,7 @@ class Solution:
         # Start with -1 since the searching ends on the children of leafs (None)
         # Make -1 offset then self.level can be the real value
         self.dfs(root, -1)
+
         return 2 ** self.level - 1 + self.last_level_count // 2
 
     def dfs(self, node, level):
@@ -31,7 +32,7 @@ class Solution:
             return
 
         if not node:
-            self.level = max(self.level, level - 1)
+            self.level = max(self.level, level)
             # If the reaches the final level, then count 1
             # Note this is actually counting for # of children (None) of final level nodes
             if self.level == level:
