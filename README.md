@@ -25,7 +25,7 @@ _A notebook recording our efforts._ &#9733;
 |74|[Search a 2D Matrix](https://github.com/garyzccisme/leetcode/tree/master/solutions/0074.Search_a_2D_Matrix) | Medium | Array, Binary Search
 |79|[Word Search](https://github.com/garyzccisme/leetcode/tree/master/solutions/0079.Word_Search) | Medium | Array, DFS, Backtracking
 |98|[Validate Binary Search Tree](https://github.com/garyzccisme/leetcode/tree/master/solutions/0098.Validate_Binary_Search_Tree) | Medium | Tree, DFS
-|102|[Binary Tree Level Order Traversal](https://github.com/garyzccisme/leetcode/tree/master/solutions/0102.Binary_Tree_Level_Order_Traversal) | Medium | Tree, DFS, BFS | 103
+|102|[Binary Tree Level Order Traversal](https://github.com/garyzccisme/leetcode/tree/master/solutions/0102.Binary_Tree_Level_Order_Traversal) | Medium | Tree, DFS, BFS | 103, 314
 |103|[Binary Tree Zigzag Level Order Traversal](https://github.com/garyzccisme/leetcode/tree/master/solutions/0103.Binary_Tree_Zigzag_Level_Order_Traversal) | Medium | Tree, Stack, BFS |  102
 |130|[Surrounded Regions](https://github.com/garyzccisme/leetcode/tree/master/solutions/0130.Surrounded_Regions) | Medium | BFS, DFS | 
 |137|[Single Number II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0137.Single_Number_II) | Medium | Bit
@@ -33,6 +33,7 @@ _A notebook recording our efforts._ &#9733;
 |207|[Course Schedule](https://github.com/garyzccisme/leetcode/tree/master/solutions/0207.Course_Schedule)| Medium | Graph, DFS, BFS |
 |215|[Kth Largest Element in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0215.Kth_Largest_Element_in_an_Array) | Medium | Sort, Divide and Conquer, Heap | 973 |
 |222|[Count Complete Tree Nodes](https://github.com/garyzccisme/leetcode/tree/master/solutions/0222.Count_Complete_Tree_Nodes) | Medium | Tree, Binary Search
+|314|[Binary Tree Vertical Order Traversal](https://github.com/garyzccisme/leetcode/tree/master/solutions/0314.Binary_Tree_Vertical_Order_Traversal) | Medium | BFS | 102
 |338|[Counting Bits](https://github.com/garyzccisme/leetcode/tree/master/solutions/0338.Couting_Bits)| Medium | DP, Bit |
 |368|[Largest Divisible Subset](https://github.com/garyzccisme/leetcode/tree/master/solutions/0368.Largest_Divisible_Subset) | Medium | DP 
 |406|[Queue Reconstruction by Height](https://github.com/garyzccisme/leetcode/tree/master/solutions/0406.Queue_Reconstruction_by_Height) | Medium | Greedy
