@@ -29,6 +29,7 @@ _A notebook recording our efforts._ &#9733;
 |103|[Binary Tree Zigzag Level Order Traversal](https://github.com/garyzccisme/leetcode/tree/master/solutions/0103.Binary_Tree_Zigzag_Level_Order_Traversal) | Medium | Tree, Stack, BFS |  102
 |130|[Surrounded Regions](https://github.com/garyzccisme/leetcode/tree/master/solutions/0130.Surrounded_Regions) | Medium | BFS, DFS | 
 |137|[Single Number II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0137.Single_Number_II) | Medium | Bit
+|142|[Linked List Cycle II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0142.Linked_List_Cycle_II) | Medium | Linked List, Two Pointers |
 |174|[Dungeon Game](https://github.com/garyzccisme/leetcode/tree/master/solutions/0174.Dungeon_Game) | Hard | DP, DFS |
 |207|[Course Schedule](https://github.com/garyzccisme/leetcode/tree/master/solutions/0207.Course_Schedule)| Medium | Graph, DFS, BFS |
 |215|[Kth Largest Element in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0215.Kth_Largest_Element_in_an_Array) | Medium | Sort, Divide and Conquer, Heap | 973 |
