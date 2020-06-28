@@ -25,7 +25,7 @@ Thus we can design a `DFS` start searching from the most left, then count the `#
 After we find out the rule, we can still make optimization. From previous solution, we count the `# final level nodes
 ` one by one, which is `O(N)` time complexity. However, using `Binary Search` can improve it to `O(log(N))`. 
 
-Here is one litter trick when implementing `Binary Search`. After we get the `left`, `right`, `mid` index, how to
+Here is one little trick when implementing `Binary Search`. After we get the `left`, `right`, `mid` index, how to
  find the tree path to the correct `mid` final level node?
  
  We can convert the `mid` index into **binary format with leading zeros** to make sure the length is equal to the number
