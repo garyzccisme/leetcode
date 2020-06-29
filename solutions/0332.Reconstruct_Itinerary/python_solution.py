@@ -44,6 +44,7 @@ class Solution:
             pre_path[cross_idx:cross_idx + 1] = self.dfs(cross_depart, [cross_depart], [])
         return pre_path
 
+
 # Eulerian Path
 class Solution(object):
     def findItinerary(self, tickets):

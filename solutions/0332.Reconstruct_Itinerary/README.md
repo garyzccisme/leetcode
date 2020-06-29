@@ -29,6 +29,6 @@ with a fixed starting point.
 
 - The Algorithm is also `DFS` with greedy strategy. 
 - The difference is it's actually `postorder DFS`. That is to do append **after** recursion, thus the points are
- added reversely.
+ added reversely. Unlike usual `preorder DFS`.
 - Need to do extra reverse in the end.
     
