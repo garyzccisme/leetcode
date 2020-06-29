@@ -1,6 +1,6 @@
 # LeetCode
 
-_A notebook recording our efforts._ &#9733;
+_A notebook recording our efforts._ :runner: :running_woman:
 
 ## Problem List
 
