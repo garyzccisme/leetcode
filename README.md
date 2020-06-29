@@ -36,6 +36,7 @@ _A notebook recording our efforts._ &#9733;
 |222|[Count Complete Tree Nodes](https://github.com/garyzccisme/leetcode/tree/master/solutions/0222.Count_Complete_Tree_Nodes) | Medium | Tree, Binary Search
 |279|[Perfect Squares](https://github.com/garyzccisme/leetcode/tree/master/solutions/0279.Perfect_Squares) | Medium | DP, DFS, Greedy
 |314|[Binary Tree Vertical Order Traversal](https://github.com/garyzccisme/leetcode/tree/master/solutions/0314.Binary_Tree_Vertical_Order_Traversal) | Medium | BFS | 102
+|332|[Reconstruct Itinerary](https://github.com/garyzccisme/leetcode/tree/master/solutions/0332.Reconstruct_Itinerary) | Medium | Graph, DFS
 |338|[Counting Bits](https://github.com/garyzccisme/leetcode/tree/master/solutions/0338.Couting_Bits)| Medium | DP, Bit |
 |368|[Largest Divisible Subset](https://github.com/garyzccisme/leetcode/tree/master/solutions/0368.Largest_Divisible_Subset) | Medium | DP 
 |406|[Queue Reconstruction by Height](https://github.com/garyzccisme/leetcode/tree/master/solutions/0406.Queue_Reconstruction_by_Height) | Medium | Greedy
