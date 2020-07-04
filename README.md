@@ -24,7 +24,7 @@ _A notebook recording our efforts._ :runner: :running_woman:
 |70|[Climbing Stairs](https://github.com/garyzccisme/leetcode/tree/master/solutions/0070.Climbing_Stairs) | Easy | DP
 |72|[Edit Distance](https://github.com/garyzccisme/leetcode/tree/master/solutions/0072.Edit_Distance) | Hard | String, DP |
 |74|[Search a 2D Matrix](https://github.com/garyzccisme/leetcode/tree/master/solutions/0074.Search_a_2D_Matrix) | Medium | Array, Binary Search
-|79|[Word Search](https://github.com/garyzccisme/leetcode/tree/master/solutions/0079.Word_Search) | Medium | Array, DFS, Backtracking
+|79|[Word Search](https://github.com/garyzccisme/leetcode/tree/master/solutions/0079.Word_Search) | Medium | Array, DFS, Backtracking | 212 |
 |98|[Validate Binary Search Tree](https://github.com/garyzccisme/leetcode/tree/master/solutions/0098.Validate_Binary_Search_Tree) | Medium | Tree, DFS
 |102|[Binary Tree Level Order Traversal](https://github.com/garyzccisme/leetcode/tree/master/solutions/0102.Binary_Tree_Level_Order_Traversal) | Medium | Tree, DFS, BFS | 103, 314
 |103|[Binary Tree Zigzag Level Order Traversal](https://github.com/garyzccisme/leetcode/tree/master/solutions/0103.Binary_Tree_Zigzag_Level_Order_Traversal) | Medium | Tree, Stack, BFS |  102
@@ -33,6 +33,7 @@ _A notebook recording our efforts._ :runner: :running_woman:
 |142|[Linked List Cycle II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0142.Linked_List_Cycle_II) | Medium | Linked List, Two Pointers |
 |174|[Dungeon Game](https://github.com/garyzccisme/leetcode/tree/master/solutions/0174.Dungeon_Game) | Hard | DP, DFS |
 |207|[Course Schedule](https://github.com/garyzccisme/leetcode/tree/master/solutions/0207.Course_Schedule)| Medium | Graph, DFS, BFS |
+|212|[Word Search II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0212.Word_Search_II) | Hard | DFS, Backtracking, Trie | 79 |
 |215|[Kth Largest Element in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0215.Kth_Largest_Element_in_an_Array) | Medium | Sort, Divide and Conquer, Heap | 973 |
 |222|[Count Complete Tree Nodes](https://github.com/garyzccisme/leetcode/tree/master/solutions/0222.Count_Complete_Tree_Nodes) | Medium | Tree, Binary Search
 |279|[Perfect Squares](https://github.com/garyzccisme/leetcode/tree/master/solutions/0279.Perfect_Squares) | Medium | DP, DFS, Greedy
@@ -52,5 +53,3 @@ _A notebook recording our efforts._ :runner: :running_woman:
 |1488|[Avoid Flood in The City](https://github.com/garyzccisme/leetcode/tree/master/solutions/1488.Avoid_Flood_in_The_City) | Medium | Hash Table, Heap, Greedy
 |1497|[Check If Array Pairs Are Divisible by k](https://github.com/garyzccisme/leetcode/tree/master/solutions/1497.Check_If_Array_Pairs_Are_Divisible_by_k) | Medium | Array, Math, Greedy | 
 |1498|[Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/garyzccisme/leetcode/tree/master/solutions/1498.Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition) | Medium | Sliding Window, Two Pointers
-
-TODO: 212 Word Search II
