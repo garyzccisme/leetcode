@@ -17,6 +17,7 @@ Thus the problem is actually a `three pointers DP` problem.
     - previous ugly number `U1 * 2`.
     - previous ugly number `U2 * 3`.
     - previous ugly number `U3 * 5`.
+- Using `Heap` can find minimum candidate more efficiently.
 - The index of previous ugly number of each factor need to be stored.
 - When one factor is selected for next number, the index `+ 1`.
 - Note the ugly number could be duplicate.
