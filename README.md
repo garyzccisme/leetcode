@@ -42,6 +42,7 @@ _A notebook recording our efforts._ :runner: :running_woman:
 |332|[Reconstruct Itinerary](https://github.com/garyzccisme/leetcode/tree/master/solutions/0332.Reconstruct_Itinerary) | Medium | Graph, DFS
 |338|[Counting Bits](https://github.com/garyzccisme/leetcode/tree/master/solutions/0338.Couting_Bits)| Medium | DP, Bit |
 |368|[Largest Divisible Subset](https://github.com/garyzccisme/leetcode/tree/master/solutions/0368.Largest_Divisible_Subset) | Medium | DP 
+|399|[Evaluate Division](https://github.com/garyzccisme/leetcode/tree/master/solutions/0399.Evaluate_Division) | Medium | DFS, Graph 
 |406|[Queue Reconstruction by Height](https://github.com/garyzccisme/leetcode/tree/master/solutions/0406.Queue_Reconstruction_by_Height) | Medium | Greedy
 |518|[Coin Change 2](https://github.com/garyzccisme/leetcode/tree/master/solutions/0518.Coin_Change_2) | Medium | DP | 
 |528|[Random Pick with Weight](https://github.com/garyzccisme/leetcode/tree/master/solutions/0528.Random_Pick_with_Weight) | Medium | Binary Search, Random
