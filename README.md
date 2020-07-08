@@ -38,6 +38,7 @@ _A notebook recording our efforts._ :runner: :running_woman:
 |222|[Count Complete Tree Nodes](https://github.com/garyzccisme/leetcode/tree/master/solutions/0222.Count_Complete_Tree_Nodes) | Medium | Tree, Binary Search
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | DP, Heap | 
 |279|[Perfect Squares](https://github.com/garyzccisme/leetcode/tree/master/solutions/0279.Perfect_Squares) | Medium | DP, DFS, Greedy
+|280|[Wiggle Sort](https://github.com/garyzccisme/leetcode/tree/master/solutions/0280.Wiggle_Sort) | Medium | Array, Sort | 
 |314|[Binary Tree Vertical Order Traversal](https://github.com/garyzccisme/leetcode/tree/master/solutions/0314.Binary_Tree_Vertical_Order_Traversal) | Medium | BFS | 102
 |332|[Reconstruct Itinerary](https://github.com/garyzccisme/leetcode/tree/master/solutions/0332.Reconstruct_Itinerary) | Medium | Graph, DFS
 |338|[Counting Bits](https://github.com/garyzccisme/leetcode/tree/master/solutions/0338.Couting_Bits)| Medium | DP, Bit |
