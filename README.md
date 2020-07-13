@@ -36,6 +36,7 @@ _A notebook recording our efforts._ :runner: :running_woman:
 |212|[Word Search II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0212.Word_Search_II) | Hard | DFS, Backtracking, Trie | 79 |
 |215|[Kth Largest Element in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0215.Kth_Largest_Element_in_an_Array) | Medium | Sort, Divide and Conquer, Heap | 973 |
 |222|[Count Complete Tree Nodes](https://github.com/garyzccisme/leetcode/tree/master/solutions/0222.Count_Complete_Tree_Nodes) | Medium | Tree, Binary Search
+|236|[Lowest Common Ancestor of a Binary Tree](https://github.com/garyzccisme/leetcode/tree/master/solutions/0236.Lowest_Common_Ancestor_of_a_Binary_Tree) | Medium | Tree
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | Medium | DP, Heap | 
 |279|[Perfect Squares](https://github.com/garyzccisme/leetcode/tree/master/solutions/0279.Perfect_Squares) | Medium | DP, DFS, Greedy
 |280|[Wiggle Sort](https://github.com/garyzccisme/leetcode/tree/master/solutions/0280.Wiggle_Sort) | Medium | Array, Sort | 
