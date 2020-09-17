@@ -33,6 +33,7 @@ _A notebook recording our efforts._ :runner: :running_woman:
 |137|[Single Number II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0137.Single_Number_II) | Medium | Bit
 |142|[Linked List Cycle II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0142.Linked_List_Cycle_II) | Medium | Linked List, Two Pointers |
 |174|[Dungeon Game](https://github.com/garyzccisme/leetcode/tree/master/solutions/0174.Dungeon_Game) | Hard | DP, DFS |
+|198|[House Robber](https://github.com/garyzccisme/leetcode/tree/master/solutions/0198.House_Robber) | Easy | DP |
 |207|[Course Schedule](https://github.com/garyzccisme/leetcode/tree/master/solutions/0207.Course_Schedule)| Medium | Graph, DFS, BFS | 201
 |210|[Course Schedule II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0210.Course_Schedule_II) | Medium | Graph, DFS, BFS | 207
 |212|[Word Search II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0212.Word_Search_II) | Hard | DFS, Backtracking, Trie | 79 |
