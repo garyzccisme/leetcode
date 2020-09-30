@@ -32,7 +32,8 @@ _A notebook recording our efforts._ :runner: :running_woman:
 |121|[Best Time to Buy and Sell Stock](https://github.com/garyzccisme/leetcode/tree/master/solutions/0121.Best_Time_to_Buy_and_Sell_Stock) | Easy | Array, DP |
 |130|[Surrounded Regions](https://github.com/garyzccisme/leetcode/tree/master/solutions/0130.Surrounded_Regions) | Medium | BFS, DFS | 
 |134|[Gas Station](https://github.com/garyzccisme/leetcode/tree/master/solutions/0134.Gas_Station) | Medium | Greedy |
-|137|[Single Number II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0137.Single_Number_II) | Medium | Bit
+|137|[Single Number II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0137.Single_Number_II) | Medium | Bit |
+|139|[Word Break](https://github.com/garyzccisme/leetcode/tree/master/solutions/0139.Word_Break) | Medium | DP | 
 |142|[Linked List Cycle II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0142.Linked_List_Cycle_II) | Medium | Linked List, Two Pointers |
 |169|[Majority Element](https://github.com/garyzccisme/leetcode/tree/master/solutions/0169.Majority_Element) | Easy | Array, Divide and Conquer |
 |174|[Dungeon Game](https://github.com/garyzccisme/leetcode/tree/master/solutions/0174.Dungeon_Game) | Hard | DP, DFS |
