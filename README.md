@@ -17,6 +17,7 @@ _A notebook recording our efforts._ :runner: :running_woman:
 |22|[Generate Parentheses](https://github.com/garyzccisme/leetcode/tree/master/solutions/0022.Generate_Parentheses) | Medium | String, Backtracking, BFS, DFS | 20, 1249 |
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List, Divide and Conquer, Heap | 21
 |33|[Search in Rotated Sorted Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0033.Search_in_Rotated_Sorted_Array) | Medium | Array, Binary Search
+|41|[First Missing Positive](https://github.com/garyzccisme/leetcode/tree/master/solutions/0041.First_Missing_Positive) | Hard | Array | 442 |
 |46|[Permutations](https://github.com/garyzccisme/leetcode/tree/master/solutions/0046.Permutations) | Medium | BFS, DFS, Backtracking |
 |49|[Group Anagrams](https://github.com/garyzccisme/leetcode/tree/master/solutions/0049.Group_Anagrams)| Medium | Hash Table, String |
 |53|[Maximum Subarray](https://github.com/garyzccisme/leetcode/tree/master/solutions/0053.Maximum_Subarray) | Medium | Array, Divide and Conquer, DP
