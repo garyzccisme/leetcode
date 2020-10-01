@@ -56,7 +56,7 @@ _A notebook recording our efforts._ :runner: :running_woman:
 |399|[Evaluate Division](https://github.com/garyzccisme/leetcode/tree/master/solutions/0399.Evaluate_Division) | Medium | DFS, Graph 
 |406|[Queue Reconstruction by Height](https://github.com/garyzccisme/leetcode/tree/master/solutions/0406.Queue_Reconstruction_by_Height) | Medium | Greedy
 |430|[Flatten a Multilevel Doubly Linked List](https://github.com/garyzccisme/leetcode/tree/master/solutions/0430.Flatten_a_Multilevel_Doubly_Linked_List) | Medium | Linked List, DFS, Stack
-|442|[Find All Duplicates in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0442.Find_All_Duplicates_in_an_Array) | Medium | Array | 
+|442|[Find All Duplicates in an Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0442.Find_All_Duplicates_in_an_Array) | Medium | Array | 41 | 
 |518|[Coin Change 2](https://github.com/garyzccisme/leetcode/tree/master/solutions/0518.Coin_Change_2) | Medium | DP | 
 |528|[Random Pick with Weight](https://github.com/garyzccisme/leetcode/tree/master/solutions/0528.Random_Pick_with_Weight) | Medium | Binary Search, Random
 |662|[Maximum Width of Binary Tree](https://github.com/garyzccisme/leetcode/tree/master/solutions/0662.Maximum_Width_of_Binary_Tree) | Medium | Tree, BFS, DFS |
