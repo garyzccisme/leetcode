@@ -11,12 +11,13 @@ _A notebook recording our efforts._ :runner: :running_woman:
 |3|[Longest Substring Without Repeating Characters](https://github.com/garyzccisme/leetcode/tree/master/solutions/0003.Longest_Substring_Without_Repeating_Characters) | Medium | Hash Table, Two Pointers, String, Sliding Window
 |5|[Longest Palindromic Substring](https://github.com/garyzccisme/leetcode/tree/master/solutions/0005.Longest_Palindromic_Substring) | Medium| String, DP | 
 |15|[3Sum](https://github.com/garyzccisme/leetcode/tree/master/solutions/0015.3Sum) | Medium | Array, Hash Table, Two Pointers | 1 |
-|17|[Letter Combinations of a Phone Number](https://github.com/garyzccisme/leetcode/tree/master/solutions/0017.Letter_Combinations_of_a_Phone_Number)| Medium | String, Backtracking |
+|17|[Letter Combinations of a Phone Number](https://github.com/garyzccisme/leetcode/tree/master/solutions/0017.Letter_Combinations_of_a_Phone_Number)| Medium | String, Backtracking | 39 |
 |20|[Valid Parentheses](https://github.com/garyzccisme/leetcode/tree/master/solutions/0020.Valid_Parentheses) | Easy | String, Stack | 22, 1249
 |21|[Merge Two Sorted Lists](https://github.com/garyzccisme/leetcode/tree/master/solutions/0021.Merge_Two_Sorted_Lists) | Easy | Linked List | 23
 |22|[Generate Parentheses](https://github.com/garyzccisme/leetcode/tree/master/solutions/0022.Generate_Parentheses) | Medium | String, Backtracking, BFS, DFS | 20, 1249 |
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List, Divide and Conquer, Heap | 21
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List, Divide and Conquer, Heap | 21 |
 |33|[Search in Rotated Sorted Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0033.Search_in_Rotated_Sorted_Array) | Medium | Array, Binary Search
+|39|[Combination Sum](https://github.com/garyzccisme/leetcode/tree/master/solutions/0039.Combination_Sum) | Medium | Array, Backtracking | 17 |
 |41|[First Missing Positive](https://github.com/garyzccisme/leetcode/tree/master/solutions/0041.First_Missing_Positive) | Hard | Array | 442 |
 |46|[Permutations](https://github.com/garyzccisme/leetcode/tree/master/solutions/0046.Permutations) | Medium | BFS, DFS, Backtracking |
 |49|[Group Anagrams](https://github.com/garyzccisme/leetcode/tree/master/solutions/0049.Group_Anagrams)| Medium | Hash Table, String |
