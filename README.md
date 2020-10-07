@@ -63,6 +63,7 @@ _Please Star if you like this._ :star:
 |518|[Coin Change 2](https://github.com/garyzccisme/leetcode/tree/master/solutions/0518.Coin_Change_2) | Medium | DP | 
 |528|[Random Pick with Weight](https://github.com/garyzccisme/leetcode/tree/master/solutions/0528.Random_Pick_with_Weight) | Medium | Binary Search, Random
 |662|[Maximum Width of Binary Tree](https://github.com/garyzccisme/leetcode/tree/master/solutions/0662.Maximum_Width_of_Binary_Tree) | Medium | Tree, BFS, DFS |
+|701|[Insert into a Binary Search Tree](https://github.com/garyzccisme/leetcode/tree/master/solutions/0701.Insert_into_a_Binary_Search_Tree) |  Medium | Tree | 
 |713|[Subarray Product Less Than K](https://github.com/garyzccisme/leetcode/tree/master/solutions/0713.Subarray_Product_Less_Than_K) | Medium | Array, Two Pointers |
 |763|[Partition Labels](https://github.com/garyzccisme/leetcode/tree/master/solutions/0763.Partition_Labels) | Two Pointers, Greedy |
 |787|[Cheapest Flights Within K Stops](https://github.com/garyzccisme/leetcode/tree/master/solutions/0787.Cheapest_Flights_Within_K_Stops) | Medium | BFS, Heap |
