@@ -2,6 +2,8 @@
 
 _A notebook recording our efforts._ :runner: :running_woman:
 
+Feel free to star if you like this. :star:
+
 ## Problem List
 
 |  #  |   Title  | Difficulty | Tag | Similar
