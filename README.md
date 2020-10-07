@@ -2,7 +2,7 @@
 
 _A notebook recording our efforts._ :runner: :running_woman:
 
-_Feel free to star if you like this._ :star:
+_Please Star if you like this._ :star:
 
 ## Problem List
 
