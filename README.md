@@ -24,6 +24,7 @@ _Please Star if you like this._ :star:
 |46|[Permutations](https://github.com/garyzccisme/leetcode/tree/master/solutions/0046.Permutations) | Medium | BFS, DFS, Backtracking |
 |49|[Group Anagrams](https://github.com/garyzccisme/leetcode/tree/master/solutions/0049.Group_Anagrams)| Medium | Hash Table, String |
 |53|[Maximum Subarray](https://github.com/garyzccisme/leetcode/tree/master/solutions/0053.Maximum_Subarray) | Medium | Array, Divide and Conquer, DP
+|61|[Rotate List](https://github.com/garyzccisme/leetcode/tree/master/solutions/0061.Rotate_List) | Medium | Linked List, Two Pointers |
 |62|[Unique Paths](https://github.com/garyzccisme/leetcode/tree/master/solutions/0062.Unique_Paths) | Medium | Array, DP
 |70|[Climbing Stairs](https://github.com/garyzccisme/leetcode/tree/master/solutions/0070.Climbing_Stairs) | Easy | DP
 |72|[Edit Distance](https://github.com/garyzccisme/leetcode/tree/master/solutions/0072.Edit_Distance) | Hard | String, DP |
