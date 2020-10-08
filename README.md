@@ -74,6 +74,7 @@ _Please Star if you like this._ :star:
 |1044|[Longest Duplicate Substring](https://github.com/garyzccisme/leetcode/tree/master/solutions/1044.Longest_Duplicate_Substring) | Hard | String, Hash Table, Binary Search
 |1094|[Car Pooling](https://github.com/garyzccisme/leetcode/tree/master/solutions/1094.Car_Pooling) | Greedy, Sort | Medium |
 |1249|[Minimum Remove to Make Valid Parentheses](https://github.com/garyzccisme/leetcode/tree/master/solutions/1249.Minimum_Remove_to_Make_Valid_Parentheses) | Medium | String, Stack | 20, 22
+|1288|[Remove Covered Intervals](https://github.com/garyzccisme/leetcode/tree/master/solutions/1288.Remove_Covered_Intervals) | Medium | Greedy, Sort, Line Sweep | 
 |1466|[Reorder Routes to Make All Paths Lead to the City Zero](https://github.com/garyzccisme/leetcode/tree/master/solutions/1466.Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero) | Medium | Graph, DFS, BFS |
 |1488|[Avoid Flood in The City](https://github.com/garyzccisme/leetcode/tree/master/solutions/1488.Avoid_Flood_in_The_City) | Medium | Hash Table, Heap, Greedy
 |1497|[Check If Array Pairs Are Divisible by k](https://github.com/garyzccisme/leetcode/tree/master/solutions/1497.Check_If_Array_Pairs_Are_Divisible_by_k) | Medium | Array, Math, Greedy | 
