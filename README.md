@@ -68,6 +68,7 @@ _Please Star if you like this._ :star:
 |713|[Subarray Product Less Than K](https://github.com/garyzccisme/leetcode/tree/master/solutions/0713.Subarray_Product_Less_Than_K) | Medium | Array, Two Pointers |
 |763|[Partition Labels](https://github.com/garyzccisme/leetcode/tree/master/solutions/0763.Partition_Labels) | Two Pointers, Greedy |
 |787|[Cheapest Flights Within K Stops](https://github.com/garyzccisme/leetcode/tree/master/solutions/0787.Cheapest_Flights_Within_K_Stops) | Medium | BFS, Heap |
+|859|[Buddy Strings](https://github.com/garyzccisme/leetcode/tree/master/solutions/0859.Buddy_Strings) | Easy | String |
 |886|[Possible Bipartition](https://github.com/garyzccisme/leetcode/tree/master/solutions/0886.Possible_Bipartition)| Medium | DFS, Graph |
 |973|[K Closest Points to Origin](https://github.com/garyzccisme/leetcode/tree/master/solutions/0973.K_Closest_Points_to_Origin) | Medium | Sort, Divide and Conquer, Heap | 215 |
 |1041|[Robot Bounded In Circle](https://github.com/garyzccisme/leetcode/tree/master/solutions/1041.Robot_Bounded_In_Circle) | Medium | Math |
