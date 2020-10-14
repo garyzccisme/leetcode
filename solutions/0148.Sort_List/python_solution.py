@@ -15,6 +15,7 @@ class Solution:
 
     def getMid(self, head):
         slow, fast = head, head
+        # KEY: Be careful for the iteration condition
         while fast.next and fast.next.next:
             slow = slow.next
             fast = fast.next.next
