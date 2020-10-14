@@ -40,6 +40,7 @@ _Please Star if you like this._ :star:
 |137|[Single Number II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0137.Single_Number_II) | Medium | Bit |
 |139|[Word Break](https://github.com/garyzccisme/leetcode/tree/master/solutions/0139.Word_Break) | Medium | DP | 
 |142|[Linked List Cycle II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0142.Linked_List_Cycle_II) | Medium | Linked List, Two Pointers |
+|148|[Sort List](https://github.com/garyzccisme/leetcode/tree/master/solutions/0148.Sort_List) | Medium | Linked List, Sort |
 |169|[Majority Element](https://github.com/garyzccisme/leetcode/tree/master/solutions/0169.Majority_Element) | Easy | Array, Divide and Conquer |
 |174|[Dungeon Game](https://github.com/garyzccisme/leetcode/tree/master/solutions/0174.Dungeon_Game) | Hard | DP, DFS |
 |179|[Largest Number](https://github.com/garyzccisme/leetcode/tree/master/solutions/0179.Largest_Number) | Medium | Sort |
