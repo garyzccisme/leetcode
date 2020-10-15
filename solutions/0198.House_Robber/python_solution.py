@@ -26,3 +26,11 @@ class Solution:
         for i in range(2, len(nums)):
             dp.append(max(dp[i - 1], dp[i - 2]) + nums[i])
         return max(dp[-2:])
+
+# DP 3
+class Solution:
+    def rob(self, nums):
+        dp1, dp2 = 0, 0
+        for num in nums:
+            dp1, dp2 = dp2, max(dp1 + num, dp2)
+        return dp2
