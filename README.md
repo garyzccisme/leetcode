@@ -44,6 +44,7 @@ _Please Star if you like this._ :star:
 |169|[Majority Element](https://github.com/garyzccisme/leetcode/tree/master/solutions/0169.Majority_Element) | Easy | Array, Divide and Conquer |
 |174|[Dungeon Game](https://github.com/garyzccisme/leetcode/tree/master/solutions/0174.Dungeon_Game) | Hard | DP, DFS |
 |179|[Largest Number](https://github.com/garyzccisme/leetcode/tree/master/solutions/0179.Largest_Number) | Medium | Sort |
+|187|[Repeated DNA Sequences](https://github.com/garyzccisme/leetcode/tree/master/solutions/0187.Repeated_DNA_Sequences) | Medium | Hash Table |
 |198|[House Robber](https://github.com/garyzccisme/leetcode/tree/master/solutions/0198.House_Robber) | Easy | DP |
 |207|[Course Schedule](https://github.com/garyzccisme/leetcode/tree/master/solutions/0207.Course_Schedule)| Medium | Graph, DFS, BFS | 201
 |210|[Course Schedule II](https://github.com/garyzccisme/leetcode/tree/master/solutions/0210.Course_Schedule_II) | Medium | Graph, DFS, BFS | 207
