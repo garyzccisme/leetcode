@@ -15,6 +15,9 @@ Thus for `dp[-1]` is final result.
 
 Note: for nums slice `[a, b, c, d]` the optimal is `max(b + d, a + c, a + d)`.
 
+#### DP 1+
+Same logic but simpler than `DP1`. For nums slice `[a, b, c]` the optimal is `max(a + c, b)`
+
 #### DP 2
 Different with previous logic, here the `dp[i]` is the optimal rob gain that must include `nums[i]`.
 Thus final result is `max(dp[-1], dp[-2])`.
