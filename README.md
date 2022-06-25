@@ -17,7 +17,7 @@ _Please Star if you like this._ :star:
 |20|[Valid Parentheses](https://github.com/garyzccisme/leetcode/tree/master/solutions/0020.Valid_Parentheses) | Easy | String, Stack | 22, 1249
 |21|[Merge Two Sorted Lists](https://github.com/garyzccisme/leetcode/tree/master/solutions/0021.Merge_Two_Sorted_Lists) | Easy | Linked List | 23
 |22|[Generate Parentheses](https://github.com/garyzccisme/leetcode/tree/master/solutions/0022.Generate_Parentheses) | Medium | String, Backtracking, BFS, DFS | 20, 1249 |
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Linked List, Divide and Conquer, Heap | 21 |
+|23|[Merge k Sorted Lists](https://github.com/garyzccisme/leetcode/tree/master/solutions/0023.Merge_k_Sorted_Lists) | Hard | Linked List, Divide and Conquer, Heap | 21 |
 |33|[Search in Rotated Sorted Array](https://github.com/garyzccisme/leetcode/tree/master/solutions/0033.Search_in_Rotated_Sorted_Array) | Medium | Array, Binary Search
 |39|[Combination Sum](https://github.com/garyzccisme/leetcode/tree/master/solutions/0039.Combination_Sum) | Medium | Array, Backtracking | 17 |
 |41|[First Missing Positive](https://github.com/garyzccisme/leetcode/tree/master/solutions/0041.First_Missing_Positive) | Hard | Array | 442 |
