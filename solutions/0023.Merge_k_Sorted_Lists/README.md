@@ -9,6 +9,6 @@ Very Similar with [Merge Two Sorted Lists](https://leetcode.com/problems/merge-t
 `k` is the number of linked lists, `N` is the number of nodes in final linked list.
 
 - Merge them one by one could work -> `O(k N)`.
-- Use `Heap` or `Priority Queue` can easily figure out the problem. -> `O(N log(k))`
+- Use `Heap` or `Priority Queue` can easily figure out the problem. -> `O(N log(k))`, more details of [HeapSort](https://www.geeksforgeeks.org/heap-sort/).
 - Also we can think of `Divede and Conquer`-> `O(N log(k))`. 
 ![alt text](https://leetcode.com/problems/merge-k-sorted-lists/Figures/23/23_divide_and_conquer_new.png)
