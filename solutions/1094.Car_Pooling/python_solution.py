@@ -39,7 +39,7 @@ class Solution:
                 return False
         return True
 
-# O(N) Bucket Sort
+# O(N) Bucket 
 class Solution:
     def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
         timestamp = [0] * 1001
@@ -51,6 +51,29 @@ class Solution:
         for passenger_change in timestamp:
             used_capacity += passenger_change
             if used_capacity > capacity:
+                return False
+
+        return True
+    
+# Dict + Simulation
+class Solution:
+    def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
+        from_stop = collections.defaultdict(int)
+        to_stop = collections.defaultdict(int)
+        final_stop = 0
+        seat = capacity
+
+        for num, f, t in trips:
+            from_stop[f] += num
+            to_stop[t] += num
+            final_stop = max(final_stop, t)
+
+        for stop in range(final_stop + 1):
+            if stop in from_stop:
+                seat -= from_stop[stop]
+            if stop in to_stop:
+                seat += to_stop[stop]
+            if seat < 0:
                 return False
 
         return True
