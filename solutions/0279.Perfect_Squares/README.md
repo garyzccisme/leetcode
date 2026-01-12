@@ -1,7 +1,7 @@
 ## 279. Perfect Squares
 
 ### Problem Link 
-https://leetcode.com/problems/count-complete-tree-nodes/
+https://leetcode.com/problems/perfect-squares/
 
 ### Note
 This problem is quite similar with [322. Coin Change](https://leetcode.com/problems/coin-change/), which is a classic 
